@@ -1,5 +1,5 @@
 //Description – This module creates proccesses and according to the return value of each procces fills in the test_data
-//				struct accordingly.
+//				struct accordingly..
 
 #include "CreateProcess.h"
 
